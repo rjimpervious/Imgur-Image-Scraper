@@ -6,7 +6,7 @@ from selenium.webdriver import ActionChains
 def main():
     searchVar = input("Enter a topic or a name to be searched: \n")
     os.makedirs('images', exist_ok=True) # creates a folder for to download the images
-    os.chdir(os.getcwd() + r'\images') # changes the cwd to the images folder. change \ to / for linux and mac
+    os.chdir(os.getcwd() + '/images')
 
     browser = webdriver.Chrome()
     browser.get('https://imgur.com/')
