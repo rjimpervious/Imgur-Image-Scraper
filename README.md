@@ -9,7 +9,7 @@ Prerequisites:
 
 Usage:
 
-1. Run the script in the Terminal(Linux/Mac), CMD(Windows) or alternatively in a IDE.
+1. Run the script in the Terminal(Linux/Mac), CMD(Windows) or alternatively in an IDE.
 ![](https://github.com/rjimpervious/Imgur-Image-Scraper/blob/master/README_images/cmd.png?raw=true)
 
 2. After entering the desired keyword to be searched. Script will open your selected Chrome(current selected web browser) through Selenium and navigate through Imgur. If you want to use another browser. Just edit the selected browser in the script but be sure to download the corresponding webdriver for the browser.
