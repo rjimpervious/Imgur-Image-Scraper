@@ -9,5 +9,5 @@ Prerequisites:
 
 Usage:
 
-Run the script in the Terminal(Linux/Mac), CMD(Windows) or alternatively in a IDE.
+1. Run the script in the Terminal(Linux/Mac), CMD(Windows) or alternatively in a IDE.
 ![](https://github.com/rjimpervious/Imgur-Image-Scraper/blob/master/README_images/cmd.png?raw=true)
