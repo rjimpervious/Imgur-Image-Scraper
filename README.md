@@ -1,5 +1,5 @@
 # Imgur-Image-Scraper
-A manual image scraper using Selenium to navigate through Imgur.com and using BeautifulSoup4 to parse the results.
+An automatic image scraper(written in Python 3) using Selenium to navigate through Imgur.com and using BeautifulSoup4 library to parse the results.
 
 Prerequisites:
   * BeautifulSoup 4 Library
