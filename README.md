@@ -7,4 +7,7 @@ Prerequisites:
   * Selenium
   * Chrome Webdriver (You can use Firefox or any other browser as well).
 
+Usage:
+
+Run the script in the Terminal(Linux/Mac), CMD(Windows) or alternatively in a IDE.
 ![](https://github.com/rjimpervious/Imgur-Image-Scraper/blob/master/README_images/cmd.png?raw=true)
